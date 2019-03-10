@@ -25,12 +25,15 @@ namespace Assignment_1_Console
             Console.ReadLine();
             Console.ReadKey(false);
 
+
+            //*summary: This method prints a triangle using * for n # of lines
             int num_val = 5;
             Console.WriteLine("-------> 1st Assignment:: 3rd Question's Answer");
             printTriangle(num_val);
             Console.ReadLine();
             Console.ReadKey(false);
 
+            //* summary: This method computes the frequency of each element in the array
             int[] Freq = new int[] { 1, 2, 3, 2, 2, 1, 3, 2 };
             Console.WriteLine("-------> 1st Assignment:: 4th Question's Answer");
             computeFrequency(Freq);
