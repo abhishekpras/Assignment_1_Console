@@ -39,6 +39,7 @@ namespace Assignment_1_Console
 
             // write your self-reflection here as a comment
             //This assignment gives us chance to code different mathematical terms.
+            //It also gives oppurtunity for working with loops/methods/arrays and variables etc.
 
         }
 
